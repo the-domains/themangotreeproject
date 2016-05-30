@@ -1,0 +1,14 @@
+layout_spectrum: 0.7311215535737574
+typography_spectrum: 0.01694183493964374
+color:
+  brandStrength: 0.5798742468468845
+  lightness: 0.9616256961598992
+  saturation: 0.24286317033693194
+  rhythmicContrast: 0.010290666250512004
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: TheMangoTreeProject
